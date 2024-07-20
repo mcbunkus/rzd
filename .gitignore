@@ -1,0 +1,9 @@
+*.zip
+
+
+build/
+builddir/
+.cache/
+
+testdir/
+test[-_]dir/
